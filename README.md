@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Gautam</h1>
-<h3 align="center">Upcoming Software Developer at Piramal Finance | Final year dualdegree student at IIT Kharagpur</h3>
+<h3 align="center">Software Developer at Piramal Finance | Graduate from IIT Kharagpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgiitian&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgiitian" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushgiitian" alt="piyushgiitian" /></a> </p>
 
-- 🌱 I’m currently learning **Devops technologies**
+- 🌱 I’m currently exploring **AI Agents, Advanced RAG, Workflow Automations**
 <!-- 
 - 👨‍💻 All of my projects are available at [https://piyushgiitian.vercel.app/](https://piyushgiitian.vercel.app/)
  -->
