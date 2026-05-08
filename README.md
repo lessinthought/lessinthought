@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=lessinthought&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/piyushgautam-tg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:piyushgautamtg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://piyushgautam.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://piyushgautam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 | 🎭 **Avatar Ecosystem** | Browser-native 3D avatars with AI-textured cloth, replacing a Unity+iframe POC at Flam. |
 | 💃 **AI Motion Capture** | Webcam → 3D avatar via MediaPipe + quaternion smoothing. No mocap suit. |
 
-More on [piyushgautam.github.io](https://piyushgautam.github.io).
+More on [piyushgautam.github.io](https://piyushgautam.vercel.app).
 
 ---
 
